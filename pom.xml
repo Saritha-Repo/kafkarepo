@@ -70,6 +70,13 @@
 			<version>2.0.6</version>
 			<scope>runtime</scope>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.apache.kafka/kafka-streams -->
+		<dependency>
+			<groupId>org.apache.kafka</groupId>
+			<artifactId>kafka-streams</artifactId>
+			<version>3.2.0</version>
+		</dependency>
+
 
 	</dependencies>
 </project>
